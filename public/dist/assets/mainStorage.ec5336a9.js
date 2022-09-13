@@ -1,0 +1,1 @@
+import{j as t}from"./index.8b45bf7a.js";const n=t("main",{state:()=>({token:null,user_id:null,user_name:null,user_type:null}),actions:{setData(e){this.token=e.token,this.user_id=e.user,this.user_name=e.name,this.user_type=e.type},logout(){this.token=null,this.user_id=null,this.user_name=null,this.user_type=null}}});export{n as m};
